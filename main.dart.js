@@ -33081,10 +33081,10 @@ return(r|s)>>>0},
 ww(a){var s
 for(s=0;a!==0;){++s
 a=a>>>1}return s},
-cK(){switch("undefined"){case"production":return"https://quemjoga-git-production.up.railway.app"
+cK(){switch("production"){case"production":return"https://quemjoga-git-production.up.railway.app"
 case"homologacao":return"https://quemjoga-git-homologacao.up.railway.app"
 case"local":return"http://127.0.0.1:8000"
-default:throw A.f(A.at('APP_ENV n\xe3o configurado ou inv\xe1lido: "undefined". Use production, homologacao ou local.'))}},
+default:throw A.f(A.at('APP_ENV n\xe3o configurado ou inv\xe1lido: "production". Use production, homologacao ou local.'))}},
 b0C(a,b){var s,r,q,p=(self.URL||self.webkitURL).createObjectURL(A.b5x(A.b([a],t.jl),"application/pdf"))
 p.toString
 s=document
