@@ -5,10 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"politica-de-privacidade.html": "c8a0b6784eeee936855f5cd5703eb513",
 "manifest.json": "74916ee5490629ed6f1c45274a178020",
-"version.json": "9ce8335d8ab7bbc1bd4debd92b364f2f",
+"version.json": "8a4a00a89cf35a7c59374309cf769930",
 "main.dart.js": "14b0aa9bc6efc6f12e7ba09196bcb646",
 "termos-de-uso.html": "0acbc9c71310ea61581ace572c6f6a40",
-"flutter_bootstrap.js": "82cc6b97b9bf609f469ac853774be3d3",
+"flutter_bootstrap.js": "d7d180e1791ce6fc2c18c6c4261b8c3c",
 "icons/Icon-maskable-512.png": "3b9fceec5d3d053aac6a9ea642870beb",
 "icons/Icon-192.png": "34b50016a17b8448d977ac3800db604a",
 "icons/Icon-maskable-192.png": "34b50016a17b8448d977ac3800db604a",
